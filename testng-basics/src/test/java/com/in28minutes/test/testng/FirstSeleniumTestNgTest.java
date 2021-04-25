@@ -1,4 +1,4 @@
-package com.in28minutes.test.testng;
+﻿package com.in28minutes.test.testng;
 
 import static org.testng.Assert.assertEquals;
 
@@ -89,4 +89,4 @@ public class FirstSeleniumTestNgTest {
 
 // org.openqa.selenium.WebDriverException:
 // unknown error: unhandled inspector error:
-// {"code":-32000,"message":"Cannot navigate to invalid URL"}
+// {"code":-32000,"message":"Cannot navigate -to invalid URL"}
